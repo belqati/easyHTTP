@@ -12,15 +12,6 @@ a {
   color: #FFE7D8;
 }
 
-/*mod Prism background*/
-pre[class*=language-] {
-  border-radius: 5px;
-}
-
-kbd {
-  background-color: #7D71B3;
-}
-
 code {
   background: #F3E0E9;
   color: #BA005D;
